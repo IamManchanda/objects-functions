@@ -2,7 +2,7 @@
  * Objects and Functions
  */
 
-// Closures
+// Closure Scope Chain - Currying!
 
 const retirement = (retirementAge) => {
   return (name) => {
